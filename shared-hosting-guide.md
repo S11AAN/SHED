@@ -35,7 +35,7 @@ This option **is available by default** in the original source pack. You can see
 This config is available in the original source pack at `/conf/example.nginx.conf`
 
 *Sphinx* (**advanced mode**)
-Instruction coming soon
+[Instruction here](https://github.com/isohuntto/openbay/wiki/sphinx)
 
 *MySQL* (**advanced mode**)
 Before the wizard running you need to create a data base, the scheme of the data base will be created by the wizard. Dump here `/src/protected/data/schema.mysql.sql`
